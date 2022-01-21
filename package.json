@@ -21,7 +21,7 @@
     "file-saver": "^2.0.2",
     "jquery-scrollintoview": "0.0.10",
     "jszip": "^3.2.1",
-    "log4js": "^4.3.1",
+    "log4js": "^6.4.0",
     "mint-ui": "^2.2.13",
     "moment": "^2.24.0",
     "mssql": "^5.1.0",
