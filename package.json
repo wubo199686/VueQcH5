@@ -14,7 +14,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "ajv": "^5.5.2",
+    "ajv": "^6.12.3",
     "cluster": "^0.7.7",
     "dns": "^0.2.2",
     "element-ui": "^2.9.1",
